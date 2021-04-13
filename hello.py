@@ -1,5 +1,5 @@
 # Author: Brad Montgomery
-# blah cblah blah.
+# blah blah blah.
 
 import sys
 
