@@ -1,3 +1,6 @@
+# Author: Brad Montgomery
+# blah cblah blah.
+
 import sys
 
 if __name__ == "__main__":
